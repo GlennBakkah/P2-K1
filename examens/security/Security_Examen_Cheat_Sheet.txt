@@ -1,0 +1,21 @@
+Security Examen Cheat Sheet
+
+Windows OS
+Updates checken
+Firewall checken
+Defender checken
+Product ID checken (geactiveerd exemplaar?)
+
+Accounts en gebruikersbeheer: Controleer of er geen ongebruikte of niet-geautoriseerde gebruikersaccounts aanwezig zijn. Zorg ervoor dat sterke wachtwoordbeleidsregels zijn geïmplementeerd en dat alle gebruikers de minimale benodigde privileges hebben.
+
+Toegangscontrole: Ga na of de juiste toegangsrechten zijn ingesteld voor bestanden, mappen en gedeelde bronnen. Beperk de toegang tot gevoelige gegevens en zorg ervoor dat alleen geautoriseerde gebruikers toegang hebben.
+
+Patchbeheer: Controleer of het besturingssysteem en alle geïnstalleerde applicaties up-to-date zijn met de nieuwste patches en beveiligingsupdates. Zorg ervoor dat er een regelmatig patchbeheerproces is geïmplementeerd.
+
+Firewall en netwerkconfiguratie: Controleer of er een firewall is ingesteld en of deze de vereiste poorten en services blokkeert. Beoordeel ook de netwerkconfiguratie om ervoor te zorgen dat het systeem alleen de vereiste communicatie mogelijk maakt.
+
+Logboeken en monitoring: Zorg ervoor dat logboeken zijn ingeschakeld en controleer of er verdachte activiteiten worden geregistreerd. Implementeer indien mogelijk monitoringtools om verdachte patronen te detecteren en ongeautoriseerde toegang of aanvallen te identificeren.
+
+Antivirus- en antimalwarebescherming: Controleer of een bijgewerkte antivirus- en antimalwareoplossing is geïnstalleerd en geconfigureerd. Zorg ervoor dat regelmatige scans plaatsvinden en dat realtime bescherming is ingeschakeld.
+
+Back-up en herstel: Controleer of er regelmatige back-ups worden gemaakt van belangrijke gegevens en configuratie-instellingen. Test ook het herstelproces om ervoor te zorgen dat gegevens effectief kunnen worden hersteld in geval van een beveiligingsincident of storing.
