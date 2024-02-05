@@ -1,0 +1,4 @@
+select (wat jij wilt)
+from (hoofdtafel)
+inner/right/left join (2de tafel)
+on hoofdtafel.kolomdieovereenkomtmetde2detafel = 2detafelnaam.dekolomdieovereenkomtmetdeeerstetafel
