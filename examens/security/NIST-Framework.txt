@@ -1,0 +1,15 @@
+Het NIST (National Institute of Standards and Technology) model kan worden toegepast op een security incident op een Windows 2019/2022 server volgens een aantal stappen. Hier is een algemene richtlijn:
+
+Identificeren: Verzamel alle relevante informatie over het security-incident, zoals de aard van het incident, de impact ervan, eventuele zichtbare schade, huidige maatregelen, etc.
+
+Beschermen: Neem onmiddellijk maatregelen om verdere schade te voorkomen. Dit kan onder meer het isoleren van de server van het netwerk, het toepassen van patches of updates, het wijzigen van inloggegevens, het implementeren van firewallregels, etc. omvatten.
+
+Detecteren: Configureer en monitor logbestanden, alarmsystemen en andere beveiligingstools om verdachte activiteiten te detecteren. Identificeer de omvang van het incident en bepaal of het een geïsoleerd incident is of een inbreuk op het hele netwerk.
+
+Reageren: Stel een incident-response-team samen en ontwikkel een plan van aanpak om het incident aan te pakken. Dit kan het inzetten van forensische tools, het analyseren van logbestanden, het herstellen van back-ups, het communiceren met belanghebbenden, etc. omvatten.
+
+Herstellen: Herstel de normale functionaliteit van de server door getroffen systemen te herstellen, zwakke punten te verhelpen, patches toe te passen, logboeken te controleren en tekortkomingen van het beveiligingsbeleid aan te pakken.
+
+Lessen leren: Evalueer het incident, de reactie en de herstelprocessen om lessen te leren en verbeteringen in de beveiligingspraktijken te identificeren. Documenteer alle bevindingen en pas waar nodig het beveiligingsbeleid en de procedures aan.
+
+Het is belangrijk om te vermelden dat deze stappen slechts een algemene richtlijn zijn en dat elk incident uniek kan zijn. Het is altijd raadzaam om vertrouwd te raken met de specifieke documentatie van NIST, met name het "NIST Cybersecurity Framework", dat gedetailleerdere begeleiding biedt voor het omgaan met security-incidenten.
